@@ -1,0 +1,43 @@
+Altium Designer Pick and Place Locations
+E:\Eng_project_01\New folder\Pillpal_final01\Pillpal_final01\Project Outputs for pilpal_final\Pick Place for Pillpal_PCB02.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       29/05/24
+Time:       11:32
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"U1","AMS1117-3.3","TopLayer","FP-AMS1117-IPC_C","26.9500","24.2250","90","LDO Voltage Regulators 1A, 3.3V"
+"SW2","1825910-6","TopLayer","TECO-1825910-6_V","6.6500","50.4000","90","Tact Switch, SPST-NO, 0.05 A, -35 to 85 degC, 4-Pin THD, RoHS, Bulk"
+"SW1","1825910-6","TopLayer","TECO-1825910-6_V","45.2500","8.7000","270","Tact Switch, SPST-NO, 0.05 A, -35 to 85 degC, 4-Pin THD, RoHS, Bulk"
+"R8","10k","TopLayer","FP-CRG0805-IPC_C","36.2250","14.5250","0","RES SMD 10K OHM 1% 1/8W 0805"
+"R7","10k","TopLayer","FP-CRG0805-IPC_C","21.8000","38.7000","270","RES SMD 10K OHM 1% 1/8W 0805"
+"R6","10k","TopLayer","FP-CRG0805-IPC_C","15.8000","14.7750","90","RES SMD 10K OHM 1% 1/8W 0805"
+"R5","TC33X-2-103E","TopLayer","BOUR-TC33X-2_V","15.2500","19.5750","90","Trimming Potentiometer, 10000 Ohm, -40 to 100 degC, 3-Pin SMD, RoHS, Tape and Reel"
+"R4","10k","TopLayer","FP-CRG0805-IPC_C","11.7500","49.1750","90","RES SMD 10K OHM 1% 1/8W 0805"
+"R3","10k","TopLayer","FP-CRG0805-IPC_C","40.2250","14.4500","180","RES SMD 10K OHM 1% 1/8W 0805"
+"R2","10k","TopLayer","FP-CRG0805-IPC_C","8.7750","58.5250","90","RES SMD 10K OHM 1% 1/8W 0805"
+"R1","75R 1% 0805(2012)","TopLayer","RESC0805(2012)_M","30.5000","15.8000","180","75R 0.125W 1% 0805 (2012 Metric)  SMD"
+"MD1","ESP32-WROOM-32D","TopLayer","FP-ESP32-WROOM-32D-MFG","26.5750","51.6500","0","WIFI MODULE 32MBITS SPI FLASH"
+"J9","B10B-XH-A(LF)(SN)","TopLayer","FP-B10B-XH-A_LF_SN-MFG","7.0000","29.2500","90","CONN HEADER VERT 10POS 2.5MM"
+"J8","TS-104-T-A","TopLayer","SAMTEC_TS-104-T-A","43.2200","57.5750","0","TS - Samtec 2.54mm Single Row Machined Terminal Strip - Fast Stock"
+"J7","B2B-XH-A(LF)(SN)","TopLayer","FP-B2B-XH-A_LF_SN-MFG","15.3250","8.1750","0","CONN HEADER VERT 2POS 2.5MM"
+"J6","B2B-XH-A(LF)(SN)","TopLayer","FP-B2B-XH-A_LF_SN-MFG","7.1750","10.3250","270","CONN HEADER VERT 2POS 2.5MM"
+"J5","B2B-XH-A(LF)(SN)","TopLayer","FP-B2B-XH-A_LF_SN-MFG","45.6000","51.9500","270","CONN HEADER VERT 2POS 2.5MM"
+"J4","B8B-XH-A(LF)(SN)","TopLayer","FP-B8B-XH-A_LF_SN-MFG","44.7750","25.4250","270","CONN HEADER VERT 8POS 2.5MM"
+"J3","B2B-XH-A(LF)(SN)","TopLayer","FP-B2B-XH-A_LF_SN-MFG","36.2750","8.2750","0","CONN HEADER VERT 2POS 2.5MM"
+"J2","B2B-XH-A(LF)(SN)","TopLayer","FP-B2B-XH-A_LF_SN-MFG","45.6250","41.8750","270","CONN HEADER VERT 2POS 2.5MM"
+"J1","B2B-XH-A(LF)(SN)","TopLayer","FP-B2B-XH-A_LF_SN-MFG","25.7750","8.4250","0","CONN HEADER VERT 2POS 2.5MM"
+"D1","150080RS75000","TopLayer","WL-SMCW_0805_150080xx75000","30.5000","13.1750","180",""
+"C9","0.1uF","TopLayer","FP-GRM15-MFG","11.2121","51.9870","270","CAP CER 0.1UF 16V X7R 0402"
+"C8","0.1uF","TopLayer","FP-GRM15-MFG","40.0500","16.9500","90","CAP CER 0.1UF 16V X7R 0402"
+"C7","1uF","TopLayer","CAPC2013X145X50ML20T25","14.0379","54.7121","180",""
+"C5","TAJB226K016RNJ","TopLayer","FP-TAJB-MFG","33.6250","20.1250","90","22uF 16V  ±10% 2.3O 1210  SMD Tantalum Capacitor"
+"C4","10uF","TopLayer","FP-GRM188-0_1-e0_2_0_55-IPC_A","22.0500","13.8500","180","Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 6.3V"
+"C3","0.1uF","TopLayer","FP-GRM15-MFG","26.5000","13.6500","90","CAP CER 0.1UF 16V X7R 0402"
+"C2","10uF","TopLayer","FP-GRM188-0_1-e0_2_0_55-IPC_A","12.4750","58.6500","270","Chip Multilayer Ceramic Capacitors for General Purpose, 0603, 10uF, X5R, 15%, 20%, 6.3V"
+"C1","0.1uF","TopLayer","FP-GRM15-MFG","13.7250","51.9750","90","CAP CER 0.1UF 16V X7R 0402"

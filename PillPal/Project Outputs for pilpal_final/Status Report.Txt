@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [pilpal_final.PrjPcb]
+   Generated File[Pillpal_PCB02.TXT]
+   Generated File[Pillpal_PCB02.LDP]
+   Generated File[Pillpal_PCB02.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:32:54 AM On 5/29/2024
