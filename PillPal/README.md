@@ -1,1 +1,1 @@
-a
+This is my 2nd semester project that I have done for an automated medicine dispencer. I used esp 32 wroom microcontroller to complete our project.By this medicine dispencer,Users can take their medicine on time. Also we built an app for this machine.
